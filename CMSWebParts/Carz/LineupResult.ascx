@@ -42,7 +42,7 @@
 <p  class="searchfilter" style="float:left;" ><strong>0-60 mph Standings</strong>
 
       <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style " style="float:right;">
+<div class="addthis_toolbox addthis_default_style " style="float:right;width:150px">
 <a class="addthis_button_preferred_1"></a>
 <a class="addthis_button_preferred_2"></a>
 <a class="addthis_button_preferred_3"></a>
